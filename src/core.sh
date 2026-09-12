@@ -88,9 +88,10 @@ servername_list=(
     www.amazon.com
     www.ebay.com
     www.paypal.com
-    www.cloudflare.com
-    dash.cloudflare.com
     aws.amazon.com
+    swscan.apple.com
+    gateway.icloud.com
+    www.lovelive-anime.jp
 )
 
 # shuf fallback for systems without shuf (e.g., Alpine BusyBox)
